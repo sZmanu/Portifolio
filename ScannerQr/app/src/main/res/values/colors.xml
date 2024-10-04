@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card">#BAB6B6</color>
+    <color name="icons">#FE6054</color>
+    <color name="red">#FE6054</color>
+    <color name="profile_icon">#D9D9D9</color>
+    <color name="text_secondary_color">#44464e</color>
+    <color name="text_tertiary_color">#FEAD51</color>
+    <color name="color1_gradient">#FE6054</color>
+    <color name="color2_gradient">#FEAD51</color>
+    // resto do app
+    <color name="orange">#FEAD51</color>
+    <color name="yellow">#FFC107</color>
+    <color name="dark_blue">#252836</color>
+    <color name="main_color">#1F1D2B</color>
+
+    <color name="colorPrimary">#252836</color>
+    <color name="colorPrimaryDark">#BAB6B6</color>
+    <color name="colorAccent">#1F1D2B</color>
+
+
+    <color name="card_color">#FFC107</color>
+    <color name="btn_color">#FFC107</color>
+
+</resources>

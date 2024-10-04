@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clear_all"
+        android:title="@string/Limpar_tudo"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/clear_selected"
+        android:title="@string/Limpar_apenas_selecionado"
+        android:orderInCategory="100"
+      />
+</menu>
