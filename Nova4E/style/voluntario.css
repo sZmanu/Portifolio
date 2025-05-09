@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body{
+    background: linear-gradient(to bottom, #d6d6d6, #06ABB2);
+    height: 100%;
+    font-family: "Manrope", sans-serif;
+    
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: center;
+    height: 90px;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #06ABB2 !important;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    margin-right: 20px;
+}
+
+img {
+    height: auto;
+    width: 100px;
+}
+
+.btn-ong {
+    background-color: #FA7C17;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.btn-volunteer {
+    background-color: #850D0D;
+    color: white;
+    border-radius: 15px;
+}
+
+.profile-container {
+    background: #dbdbd4;
+    padding: 30px;
+    border-radius: 30px;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.profile-header h2 {
+    margin-bottom: 10px;
+}
+
+.profile-details {
+    margin-bottom: 20px;
+}
+
+.profile-details p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.form-container {
+    background: #dbdbd4;
+    padding: 30px;
+    border-radius: 30px;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.form-control {
+    border-radius: 15px;
+}
+
+.form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-update {
+    display: block;
+    margin: 20px auto 0;
+    width: 172px;
+    background-color: #06abb2;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+.btn-update:hover {
+    background-color: #008e9e;
+}
+
+.btn-logout {
+    display: block;
+    margin: 20px auto 0;
+    width: 172px;
+    background-color: #850D0D;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+.btn-logout:hover {
+    background-color: #6b0b0b;
+}

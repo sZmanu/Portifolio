@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: black;
+  font-family:"Manrope", sans-serif;
+  
+}
+
+body {
+  background: linear-gradient(to bottom, #D6D6D6, #06ABB2);
+  height: 100%;
+}
+
+.semi-bold {
+    font-weight: 600;
+  }
+
+/* NAVBAR */
+.navbar-custom {
+    border-radius: 30px;
+  }
+
+.navbar-custom .nav-link {
+    color: #06ABB2;
+}  
+
+.navbar .btn {
+    background-color: #850D0D;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+
+/* CARDS */
+
+.card {
+  font-weight: 600;
+  border-radius: 20px;
+}
+
+.card-body{
+  height: 190px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card p{
+  color: #fff;
+}
+
+.card a:hover{
+  text-decoration: none;
+  border-radius: 20px;
+  background-color: #D6D6D6;
+}
+
+.card-azul {
+  background-color: #06ABB2;
+}
+
+.card-azul a:hover p{
+  color: #06ABB2;
+}
+
+.card-vermelho {
+  background-color: #850D0D;
+}
+
+.card-vermelho a:hover p{
+  color: #850D0D;
+}
+
+.card-roxo {
+  background-color: #6B739F;
+}
+
+.card-roxo a:hover p{
+  color: #6B739F;
+}
+
+.card-laranja {
+  background-color: #FA7C17;
+}
+
+.card-laranja a:hover p{
+  color: #FA7C17;
+}
+
+.card-img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; 
+}
+.card-img-container img {
+  max-width: 100%;
+  max-height: 100%;
+}

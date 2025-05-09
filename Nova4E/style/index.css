@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+* {
+    font-family: "Manrope", sans-serif;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.header-background {
+    background-image: url('../img/index_background.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    height: 900px;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 90%;
+    height: 90px;
+
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: black !important;
+}
+
+.nav-link-main {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #06ABB2 !important;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    margin-right: 20px;
+}
+
+.logoNavbar {
+    height: auto;
+    width: 100px;
+}
+
+.btn-ong {
+    background-color: #FA7C17;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.btn-volunteer {
+    background-color: #850D0D;
+    color: white;
+    border-radius: 15px;
+}
+
+/* SECTION > TEXTO INTRODUTORIO  */
+
+.titulo-banner {
+    margin-top: 300px;
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+h4 {
+    margin: 0px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+/* SEÇÃO DE SOBRE O VOLUNTARIADO */
+
+.sobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.index-logo, .gradient-container {
+    max-width: 100%;
+    height: auto;
+}
+.h1-sobre {
+    color: #850D0D;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.row {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.h4-title {
+    font-weight: bold;
+    color: #850D0D;
+
+}
+
+.btn-voluntaria-se {
+    display: block;
+    margin: 20px auto 0;
+    width: 172px;
+    background-color: #06abb2;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+.btn-voluntaria-se:hover {
+    background-color: #008e9e;
+}
+
+/* SEÇÃO DE EVENTOS */
+
+.eventos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.carousel {
+    justify-content: center;
+    width: 1000px;
+    height: 250px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Container com imagem e gradiente */
+.gradient-container {
+    position: relative;
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 30px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+.evento1 {
+    margin-bottom: 50px;
+}
+
+.evento2 {
+    margin-bottom: 50px;
+}
+
+.gradient-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(6, 171, 178, 0.5));
+    border-radius: 30px;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+    z-index: 1;
+}
+
+h2,
+p {
+    margin: 0;
+}
+
+
+.btn-verMais {
+    background-color: #850D0D;
+    display: block;
+    margin: 20px auto 0;
+    width: 172px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+.btn-verMais:hover {
+    background-color: #FA7C17;
+}
+
+/* SEÇÃO DE FEEDBACKS*/
+
+.feedbacks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.feedbacks-wrapper {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.feedback-slider {
+    display: flex;
+    transition: transform 0.5s ease;
+    overflow: hidden;
+}
+
+.feedback-slide {
+    box-sizing: border-box;
+    padding: 20px;
+
+}
+
+.feedback-card {
+    width: 300px;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: left;
+}
+
+.feedback-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.feedback-icons i {
+    color: #850D0D;
+    margin-right: 5px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.bi-arrow-left-circle, .bi-arrow-right-circle {
+    font-size: 3rem;
+    /* Ajuste o tamanho conforme necessário */
+}
+
+.btn-prev,
+.btn-next {
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+span {
+    font-weight: bold;
+}
+
+.peca {
+    width: 100px;
+}
+
+.gradiente{
+    background: linear-gradient(to bottom, #FFFBF7,#FFFBF7, #BAA8C3, #6B739F); 
+    padding-bottom: 50px;
+}

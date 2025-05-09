@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+*{
+    font-family: 'Manrope', sans-serif;
+}
+
+body{
+    background: linear-gradient(to bottom, #d6d6d6, #06ABB2);
+    height: 100%;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #f8f9fa;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: center;
+    height: 90px;
+}
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+.nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #06ABB2 !important;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    margin-right: 20px;
+}
+
+img {
+    height: auto;
+    width: 100px;
+}
+
+.btn-ong {
+    background-color: #FA7C17;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.btn-volunteer {
+    background-color: #850D0D;
+    color: white;
+    border-radius: 15px;
+}
+
+/* CONTAINER E ITEMS */
+
+.form-container {
+    background: white;
+    padding: 30px;
+    border-radius: 30px;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.form-control {
+    border-radius: 10px;
+    background-color: #dbdbd4;
+}
+
+.form-container h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 90px;
+    width: auto;
+
+}
+.paragraph-form {
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+a:hover{
+    color: #008e9e;
+}
+
+.btn-login {
+    display: block;
+    margin: 20px auto 0;
+    width: 172px;
+    background-color: #06abb2;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    border: none;
+
+}
+
+.btn-login:hover{
+    background-color: #008e9e;
+}
+
+
+
+.form-row .col-md-1,
+.form-row .col-md-2,
+.form-row .col-md-3,
+.form-row .col-md-4,
+.form-row .col-md-6 {
+    padding-right: 10px;
+}
+
+.form-row .col-md-1 input,
+.form-row .col-md-2 input,
+.form-row .col-md-3 input,
+.form-row .col-md-4 input,
+.form-row .col-md-6 input {
+    width: 100%;
+}
+
+
+
+
+

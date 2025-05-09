@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ScannerQr" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="colorPrimaryDark">@color/text_secondary_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Cor do texto do menu -->
+        <item name="android:textColorPrimary">@color/yellow</item>
+        <!-- Cor de fundo do menu -->
+        <item name="android:popupBackground">@color/colorPrimary</item>
+
+
+    </style>
+
+    <style name="Theme.ScannerQr2" parent="Base.Theme.ScannerQr" />
+    <style name="Background">
+        <item name="android:background">@color/profile_icon</item>
+    </style>
+
+    <style name="Background2">
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="button">
+        <item name="android:background">@color/yellow</item>  </style>
+
+    <style name="backgroundMenu">
+        <item name="android:background">@color/dark_blue</item>
+    </style>
+    <style name="text">
+        <item name="android:textColor">@color/dark_blue</item>  </style>
+    <style name="text2">
+        <item name="android:textColor">@color/black</item>  </style>
+
+    <style name="list">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/black</item> </style>
+</resources>

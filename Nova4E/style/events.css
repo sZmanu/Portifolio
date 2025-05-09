@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+* {
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  background-color: #f8f9fa;
+  height: 100%;
+}
+
+.navbar {
+  background-color: #f8f9fa;
+  border-radius: 30px;
+  margin: 20px 100px;
+  justify-content: center;
+  height: 90px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+.nav-link {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  color: #06abb2 !important;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  margin-right: 20px;
+}
+
+img {
+  height: auto;
+  width: 100px;
+}
+
+.btn-ong {
+  background-color: #fa7c17;
+  color: white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.btn-volunteer {
+  background-color: #850d0d;
+  color: white;
+  border-radius: 15px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.carousel::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    #f8f9fa 100%
+  );
+  pointer-events: none; 
+}
+
+.carousel {
+  position: relative;
+}
+h1 {
+  display: flex;
+  color: #850d0d;
+  justify-content: center;
+}
+
+.eventos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 100px;
+}
+.card {
+  width: 30rem;
+  margin: 10px;
+  border-radius: 15px;
+  margin-bottom: 90px;
+}
+.btn-verMais {
+  background-color: #06abb2;
+  border-radius: 10px;
+  text-decoration: none;
+  color: white;
+  border: none;
+}
+.btn-verMais:hover {
+  background-color: #008e9e;
+}
