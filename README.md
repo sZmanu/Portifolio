@@ -57,8 +57,7 @@ App mobile para comunicação e gestão de eventos estudantis da FATEC Jundiaí.
 
 ## 📌 Observações
 
-- Alguns projetos ainda estão em desenvolvimento e podem receber melhorias futuras.
-- Os deploys e protótipos estão indicados nos respectivos projetos (quando disponíveis).
+- Alguns projetos têm escopo limitado por se tratarem de entregas acadêmicas, mas demonstram conceitos importantes.
 - Este repositório serve como base de apoio para meu portfólio público.
 
 
