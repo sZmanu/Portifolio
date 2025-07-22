@@ -9,30 +9,35 @@ Este repositório reúne diversos projetos que desenvolvi ao longo da minha jorn
 
 ### 🎬 CinePass
 Sistema de controle de acesso para eventos. Conta com dois aplicativos Android: um app permite que o usuário selecione o filme desejado e gere um QR Code; o outro realiza a leitura do QR Code no momento da entrada, validando o acesso ao cinema e registrando a data e hora.
+
 **Tecnologias:** Java, XML, Android Studio, API de Câmera
 
 ---
 
 ### 📚 Emprestai
 Sistema multiplataforma para gestão de biblioteca com funcionalidades completas.
+
 **Tecnologias:** React Native, React.js, Kotlin, spring boot, JavaScript  
 
 ---
 
 ### 👕 FitWear
 Protótipo de e-commerce de roupas fitness, com catálogo de produtos.
+
 **Tecnologias:** Figma, HTML, CSS, JavaScript
 
 ---
 
 ### 🧾 Nova4E
 Site responsivo desenvolvido para ONG, com foco em acessibilidade e modernização.
+
 **Tecnologias:** HTML, CSS, JavaScript, Bootstrap, php
 
 ---
 
 ### 🧪 Da (Projeto experimental)
 App mobile para comunicação e gestão de eventos estudantis da FATEC Jundiaí.
+
 **Tecnologias:** React Native, TypeScript, CSS 
 
 ---
