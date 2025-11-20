@@ -36,7 +36,7 @@ O projeto foi desenvolvido em equipe para ONG Nova4E, o objetivo do projeto é m
 ---
 
 ### 🧪 Da
-O projeto foi desenvolvido em equipe, seu objetivo é facilitar a comunicação e a gestão de eventos estudantis da FATEC Jundiaí, através de um app mobile. Eu atuei no desenvolvimento das interfaces do app.
+O projeto é um aplicativo mobile que foi desenvolvido em equipe, seu objetivo é facilitar a comunicação e a gestão de eventos estudantis da FATEC Jundiaí. Eu atuei no desenvolvimento das interfaces do app.
 
 **Tecnologias que utilizei:** React Native, TypeScript, Styled Components, React Hooks
 
