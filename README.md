@@ -1,6 +1,6 @@
 # 📁 Portfólio de Projetos
 
-Este repositório reúne diversos projetos que desenvolvi ao longo da minha jornada de aprendizado e atuação em desenvolvimento web e mobile. Os projetos foram criados individualmente ou em grupo, com o objetivo de colocar em prática os conhecimentos adquiridos em diferentes tecnologias e contextos.
+Este repositório reúne diversos projetos que desenvolvi ao longo da minha jornada de aprendizado e atuação em desenvolvimento web e mobile. Alguns projetos foram criados individualmente e outros em equipe.
 
 
 ---
@@ -8,56 +8,43 @@ Este repositório reúne diversos projetos que desenvolvi ao longo da minha jorn
 ## 🚀 Projetos incluídos
 
 ### 🎬 CinePass
-Sistema de controle de acesso para eventos. Conta com dois aplicativos Android: um app permite que o usuário selecione o filme desejado e gere um QR Code; o outro realiza a leitura do QR Code no momento da entrada, validando o acesso ao cinema e registrando a data e hora.
+O projeto foi desenvolvido em equipe, seu objetivo é realizar o controle de acesso de um cinema. O projeto conta com dois aplicativos Android: o primeiro app permite que o usuário selecione o filme, sessão e a poltrona desejada, com isso é gerado um QR Code contendo essas informações; o segundo app que foi desenvolvido por mim, realiza a leitura do QR Code no momento da entrada, validando o acesso ao cinema e registrando a data e hora.
 
-**Tecnologias:** Java, XML, Android Studio, API de Câmera
+**Tecnologias que utilizei:** Java, XML, Android Studio, API de Câmera
 
 ---
 
 ### 📚 Emprestai
-Sistema multiplataforma para gestão de biblioteca com funcionalidades completas.
+O projeto foi desenvolvido em equipe, seu objetivo é fazer o gerenciamento de livros de uma biblioteca, o sistema conta com funcionalidades completas, versão web e mobile. Eu desenvolvi a versão mobile e realizei com consumo da API.
 
-**Tecnologias:** React Native, React.js, Kotlin, spring boot, JavaScript  
+**Tecnologias que utilizei:** React Native, TypeScript, React Hooks  
 
 ---
 
 ### 👕 FitWear
-Protótipo de e-commerce de roupas fitness, com catálogo de produtos.
+Eu desenvolvi o protótipo de um e-commerce de roupas fitness, com catálogo de produtos. Seguindo fielmente o protótipo, criei as interfaces utilizando BootStrap e adicionei responsividade.
 
-**Tecnologias:** Figma, HTML, CSS, JavaScript
+**Tecnologias que utilizei:** Figma, HTML, CSS, JavaScript, BootStrap
 
 ---
 
 ### 🧾 Nova4E
-Site responsivo desenvolvido para ONG, com foco em acessibilidade e modernização.
+O projeto foi desenvolvido em equipe para ONG Nova4E, o objetivo do projeto é melhorar o site da ONG trazendo acessibilidade, modernização, responsividade, e novas funcionalidades. Eu atuei no desenvolvimento das interfaces do site.
 
-**Tecnologias:** HTML, CSS, JavaScript, Bootstrap, php
-
----
-
-### 🧪 Da (Projeto experimental)
-App mobile para comunicação e gestão de eventos estudantis da FATEC Jundiaí.
-
-**Tecnologias:** React Native, TypeScript, CSS 
+**Tecnologias que utilizei:** HTML, CSS, JavaScript, Bootstrap
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+### 🧪 Da
+O projeto foi desenvolvido em equipe, seu objetivo é facilitar a comunicação e a gestão de eventos estudantis da FATEC Jundiaí, através de um app mobile. Eu atuei no desenvolvimento das interfaces do app.
 
-- TypeScript
-- PHP
-- JavaScript
-- Java
-- Kotlin
-- React Native
-- Spring Boot
-- HTML5 & CSS3
+**Tecnologias que utilizei:** React Native, TypeScript, Styled Components, React Hooks
 
 ---
+
 
 ## 📌 Observações
 
-- Alguns projetos têm escopo limitado por se tratarem de entregas acadêmicas, mas demonstram conceitos importantes.
-- Este repositório serve como base de apoio para meu portfólio público.
+- Alguns projetos têm escopo limitado por se tratarem de entregas acadêmicas.
 
 
