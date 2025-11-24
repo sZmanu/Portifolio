@@ -15,7 +15,7 @@ O projeto foi desenvolvido em equipe, seu objetivo é realizar o controle de ace
 ---
 
 ### 📚 Emprestai
-O projeto foi desenvolvido em equipe, seu objetivo é fazer o gerenciamento de livros de uma biblioteca, o sistema conta com funcionalidades completas, versão web e mobile. Eu desenvolvi a versão mobile e realizei com consumo da API.
+O projeto foi desenvolvido em equipe, seu objetivo é otimizar o controle de livros, usuários e empréstimos de uma biblioteca, o sistema conta com funcionalidades completas que permite criar, visualizar, atualizar e deletar cada entidade. Eu desenvolvi a versão mobile e realizei com consumo da API, garantindo uma integração fluida com o back-end.
 
 **Tecnologias que utilizei:** React Native, TypeScript, React Hooks  
 
@@ -29,16 +29,23 @@ Eu desenvolvi o protótipo de um e-commerce de roupas fitness, com catálogo de 
 ---
 
 ### 🧾 Nova4E
-O projeto foi desenvolvido em equipe para ONG Nova4E, o objetivo do projeto é melhorar o site da ONG trazendo acessibilidade, modernização, responsividade, e novas funcionalidades. Eu atuei no desenvolvimento das interfaces do site.
+O projeto foi desenvolvido em equipe para ONG Nova4E, o objetivo do projeto é melhorar o site da ONG trazendo acessibilidade, modernização, responsividade, e funcionalidades que facilitam a comunicação e a interação com o público. Eu atuei no desenvolvimento das interfaces do site.
 
 **Tecnologias que utilizei:** HTML, CSS, JavaScript, Bootstrap
 
 ---
 
 ### 🧪 Da
-O projeto é um aplicativo mobile que foi desenvolvido em equipe, seu objetivo é facilitar a comunicação e a gestão de eventos estudantis da FATEC Jundiaí. Eu atuei no desenvolvimento das interfaces do app.
+O projeto é um aplicativo mobile que foi desenvolvido em equipe, seu objetivo é facilitar a comunicação entre diretório acadêmico, atlética e alunos. O DA e a atlética podem criar postagens, divulgar informações, criar eventos e gerenciar o calendário, enquanto os alunos podem visualizar e comentar postagens, além de confirmar ou remover presença em eventos e acompanhar suas inscrições. Eu atuei no desenvolvimento das interfaces do app. O projeto atualmente conta apenas com a estrutura completa do front-end implementada.
 
 **Tecnologias que utilizei:** React Native, TypeScript, Styled Components, React Hooks
+
+---
+
+### 📱 AppKindle
+Aplicativo desenvolvido com o objetivo de reproduzir a interface e experiência visual do Kindle, criando telas altamente fiéis ao design original. O app possui atualização dinâmica de conteúdo, exibindo livros conforme o gênero selecionado e apresentando uma tela detalhada para cada obra, incluindo descrição do livro.
+
+**Tecnologias que utilizei:** React Native, JavaScript, React Hooks.
 
 ---
 
